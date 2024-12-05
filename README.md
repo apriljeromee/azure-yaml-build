@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/bojannikolic/yaml-build/_apis/build/status/nikolic-bojan.azure-yaml-build?branchName=master)](https://dev.azure.com/bojannikolic/yaml-build/_build/latest?definitionId=3&branchName=master)
 
+# Test commit only to practice pull request and merging.
+
 # Azure DevOps YAML build for Mono Repository with multiple projects 
 
 I will show you how I setup the YAML build in Azure DevOps for our Mono repository that contains multiple (20-ish) Services that are part of one Product.
