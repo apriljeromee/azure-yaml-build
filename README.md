@@ -1,6 +1,6 @@
 [![Build Status](https://dev.azure.com/bojannikolic/yaml-build/_apis/build/status/nikolic-bojan.azure-yaml-build?branchName=master)](https://dev.azure.com/bojannikolic/yaml-build/_build/latest?definitionId=3&branchName=master)
 
-#Test commit only to practice pull request and merging.
+# Test commit only to practice pull request and merging.
 
 # Azure DevOps YAML build for Mono Repository with multiple projects 
 
